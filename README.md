@@ -1,15 +1,18 @@
-<div align="center" style="padding:5% 0%">
-    <h1>Fashion Classification With CNN Model (using pytorch)</h1>
-</div>
+# ⚡ CNN을 활용한 패션 의류 분류 (Fashion Classification)
 
+## 📘 개요
+CNN을 활용한 패션 의류 분류를 한 샘플 코드입니다.  
 
-**`Documentation`** |
-------------------- |
+## 🚀 사용방법  
+- [블로그 설명](https://yscho03.tistory.com/47 글을 참조하길 바랍니다.
 
-## Summary
-Jupyter source using Fashion Classification With CNN Model (using pytorch)
+## 개발환경
+python=3.10
 
-## Install
+## 실행방법
 ```
 $ pip install torch torchvision torchaudio
 ```
+
+## 💻 코드
+- [샘플 코드](train.ipynb) 를 참고해주세요.
